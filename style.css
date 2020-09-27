@@ -1,0 +1,36 @@
+/*================
+Base Resets
+==================*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*================
+Fonts
+==================*/
+body {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.125rem;
+    font-weight: 300;
+    line-height: 1.6;
+}
+
+/*================
+Typography
+==================*/
+
+h1,
+h2,
+h3 {
+    font-family: 'Lora', serif;
+    font-weight: 400;
+    color: #143774;
+    margin-top: 0;
+}
+
+/*================
+Layout
+==================*/
