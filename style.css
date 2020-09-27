@@ -31,6 +31,20 @@ h3 {
     margin-top: 0;
 }
 
+h1 {
+    font-size: 2rem;
+    margin: 0;
+}
+
+h3, a {
+    color: #1792d2;
+}
+
+a:hover,
+a:focus {
+    color: #143774;
+}
+
 /*================
 Layout
 ==================*/
