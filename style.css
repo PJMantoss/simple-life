@@ -129,6 +129,37 @@ header {
     margin-bottom: 2.5em;
 }
 
+footer {
+    background:#345480;
+    color: rgba(255,255,255, .65);
+    text-align: center;
+    padding: 3em 0;
+}
+
+#love {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+}
+
+#love a {
+    color: cyan;
+}
+
+#love > span {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    color: white
+}
+
+#love > img {
+    width: 40px;
+    padding: 8px;
+}
+
+
 @media (min-width: 675px){
     header {
         text-align: left;
