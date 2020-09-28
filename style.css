@@ -248,3 +248,8 @@ nav a:focus {
     border-bottom: 1px solid #707070;
     margin-bottom: 1em;
 }
+
+.widget-recent-post:last-child {
+    margin: 0;
+    border: 0;
+}
