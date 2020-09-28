@@ -1,4 +1,4 @@
-A responsive UI built with HTM and CSS.
+A responsive UI built with HTML and CSS.
 
 Date: 28/Sept/20
 
