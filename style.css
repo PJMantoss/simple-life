@@ -102,6 +102,10 @@ strong {
     letter-spacing: 2px;
 }
 
+.widget-recent-post-title {
+    color: #143774;
+}
+
 /*================
 Layout
 ==================*/
