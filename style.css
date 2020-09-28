@@ -232,6 +232,12 @@ nav a:focus {
     .article-recent-secondary {
         width: 30%;
     }
+
+    aside {
+        width: 25%;
+        min-width: 200px;
+        margin-left: 1em;
+    }
 }
 
 /* widgets */
