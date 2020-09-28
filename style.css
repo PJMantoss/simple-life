@@ -206,6 +206,7 @@ nav a:focus {
     .article-recent {
         flex-direction: row;
         justify-content: space-between;
+        align-content: start;
     }
 
     .article-recent-main {
