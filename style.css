@@ -72,6 +72,24 @@ strong {
     font-size: .875rem;
 }
 
+.article-read-more {
+    color: #1792d2;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 1px;
+}
+
+.article-read-more:hover,
+.article-read-more:focus {
+    color: #143774;
+    text-decoration: underline;
+}
+
+.article-info {
+    margin: 2em 0;
+}
+
 /*================
 Layout
 ==================*/
